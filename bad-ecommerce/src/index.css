@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Roboto:wght@100..900&display=block");
+
+body {
+    margin: 0;
+    font-family: "Inter", "Roboto", sans-serif;
+}
+
+button {
+    background: transparent !important;
+    border: 0 !important;
+    color: #b8b8b8 !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    cursor: default !important;
+    padding: 0 !important;
+    font-size: 10px !important;
+}
+
+a {
+    color: #b8b8b8;
+    cursor: default;
+    font-size: 10px !important;
+}
+
+input,
+textarea,
+select {
+    font-size: 10px;
+    color: #d8d8d8;
+    min-height: 12px;
+    padding: 2px;
+}
